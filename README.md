@@ -1,4 +1,4 @@
-# Lamp wall adapter
+# Wall light adapter
 
 ![model](img/model.png)
 
